@@ -1,0 +1,25 @@
+body{
+    background: #36393f;
+}
+.container{
+    max-width: 600px;
+  }
+  .btn{
+    background: #2f3136;
+    color: lightgray;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .btn:hover{
+      color:gray;
+  }
+  .btn:focus{
+    outline: none !important;
+  }
+  .username{
+      font-weight:bold;
+  }
+  .time{
+      font-size: 0.7em;
+      color: #999;
+  }
